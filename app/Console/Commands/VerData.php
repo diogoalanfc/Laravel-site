@@ -44,5 +44,6 @@ class VerData extends Command
         $data = $log->registrar();
         
         $this->info($data);
+        
     }
 }
